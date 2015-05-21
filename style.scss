@@ -1,0 +1,12 @@
+$primary-color: blue;
+
+h1 {
+	font-size: 10px;
+}
+
+.foo {
+
+	.bar {
+		background: $primary-color;
+	}
+}

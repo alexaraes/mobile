@@ -1,0 +1,26 @@
+.active {
+	font-weight: bold;
+}
+
+nav > a {
+	color: green;
+}
+
+.even {
+	color: rgb(80, 187, 80);
+}
+
+#biography {
+	color: black;
+}
+
+div li {
+	background: red;
+}
+
+section.mylist div {
+	background: blue;
+	width: 70px;
+	height: 30px;
+	margin-bottom: 10px;
+}
